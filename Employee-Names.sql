@@ -15,10 +15,9 @@ SALARY           |    Integer
 where employee_id is an employee's ID number, name is their name, 
 months is the total number of months they've been working for the company, 
 and salary is their monthly salary.
---------------------------------------------------------------------
+----------------------------------------------------
 EMPLOYEE_ID      |    NAME          |    MONTHS
---------------------------------------------------------------------
-1228             |    Rose          |    15
+----------------------------------------------------
 33645            |    Angela        |    1
 45692            |    Frank         |    17
 56118            |    Patrick       |    7
@@ -28,7 +27,7 @@ EMPLOYEE_ID      |    NAME          |    MONTHS
 83565            |    Michael       |    6
 98607            |    Todd          |    5
 99989            |    Joe           |    9
---------------------------------------------------------------------
+----------------------------------------------------
 Sample Output
 Angela
 Bonnie
