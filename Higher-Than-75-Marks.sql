@@ -31,8 +31,6 @@ Belvet
 Explanation
 Only Ashley, Julia, and Belvet have Marks > 75. 
 If you look at the last three characters of each of their names, there are no duplicates and 'ley' < 'lia' < 'vet'.
-
-SOOLUTION
 */
 SELECT Name
 FROM STUDENTS
